@@ -1,10 +1,10 @@
-📊 Stock Market RAG Agent (2024)
+### 📊 Stock Market RAG Agent (2024)
 
 An AI-powered Retrieval-Augmented Generation (RAG) agent built with LangChain, LangGraph, Chroma, and Groq LLaMA 3.1.
 
 The agent can answer questions about stock market performance in 2024 by retrieving information from a PDF knowledge base and combining it with reasoning from an LLM.
 
-✨ Features
+#### ✨ Features
 
 📄 PDF ingestion → Reads and processes the Stock_Market_Performance_2024.pdf.
 
