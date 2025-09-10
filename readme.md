@@ -1,4 +1,4 @@
-### 📊 Stock Market RAG Agent (2024)
+### 📊 RAG Agent
 
 An AI-powered Retrieval-Augmented Generation (RAG) agent built with LangChain, LangGraph, Chroma, and Groq LLaMA 3.1.
 
